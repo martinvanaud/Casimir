@@ -8,7 +8,7 @@
 - :microscope: I'm currently working at **Sony Computer Science Laboratories**
 - :hammer: I use daily: `.cpp`, `.[tj]s`, `.yaml`
 ####
-- 🌍 Fun fact, 
+- 🌍 Fun fact, i'm still looking for it !
 - :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
 
 ### 👷 Check out what I'm currently working on:
