@@ -11,7 +11,7 @@
 - 🌍 Fun fact, i'm still looking for it !
 - :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
 
-### 👷 Check out what I'm currently working on:
+### 👷 What I'm currently working on (not released yet):
 
 - [martinvanaud/martinvanaud.me](https://github.com/martinvanaud/the-studio) - My personal website
 - [myepitech/area](https://github.com/MyEpitech/B-APP-500-PAR-5-1-area-martin.vanaud) - An Action Reaction, automation platform such as IFTTT
@@ -19,10 +19,10 @@
 
 ### ⚡️ My latest projects and contributions:
 
-- [sonycsl/beatbox](https://github.com/martinvanaud/BeatBox) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
+- [sonycsl/beatbox](https://github.com/sony-csl-maker/BeatBox) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 - [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/)
 
-### :school: My school assignments (done during the last 3 years)
+### :school: My school assignments (done during the last 3 years):
 
 - [myepitech/indiestudio](https://github.com/MyEpitech/B-YEP-400-PAR-4-1-indiestudio-martin.vanaud) - A C++ cross-platform 3D video game with real-world tools
 - [myepitech/zappy](https://github.com/MyEpitech/B-YEP-410-PAR-4-1-zappy-martin.vanaud) - A C++ network game. Several teams confront on a tiles map containing resources. The winning team is the one with 6 players who reached maximum elevation.
