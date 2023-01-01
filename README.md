@@ -16,8 +16,10 @@
 - [martinvanaud/siaje-api](https://github.com/martinvanaud/JuniorConseilTaker-Siaje-API) - A custom built golang api for siaje platform
 - [myepitech/area](https://github.com/MyEpitech/B-APP-500-PAR-5-1-area-martin.vanaud) - An Action Reaction, automation platform such as IFTTT
 - [myepitech/whanos](https://github.com/MyEpitech/B-DOP-500-PAR-5-1-whanos-martin.vanaud) - A DevOps suite to automatically deploy (nearly) any application, using Docker, Jenkins & Kubernetes
-- [sonycsl/beatbox](https://github.com/sony-csl-maker/BeatBox) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 - [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/)
+
+### :hammer: Projects to which I made contributions
+- [sonycsl/beatbox](https://github.com/sony-csl-maker/BeatBox) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
 
 ### :school: My school assignments (done during the last 3 years):
 
