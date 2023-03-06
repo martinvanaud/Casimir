@@ -22,7 +22,7 @@
 
 ### :school: My school assignments (done during the last 3 years):
 
-- [myepitech/area](https://github.com/MyEpitech/B-APP-500-PAR-5-1-area-martin.vanaud) - A web application for Action & Reaction, automation platform such as IFTTT
+- [myepitech/area](https://github.com/MyEpitech/B-DEV-500-PAR-5-2-area-martin.vanaud) - A web application for Action & Reaction, automation platform such as IFTTT
 - [myepitech/indiestudio](https://github.com/MyEpitech/B-YEP-400-PAR-4-1-indiestudio-martin.vanaud) - A C++ cross-platform 3D video game with real-world tools
 - [myepitech/zappy](https://github.com/MyEpitech/B-YEP-410-PAR-4-1-zappy-martin.vanaud) - A C++ network game. Several teams confront on a tiles map containing resources. The winning team is the one with 6 players who reached maximum elevation.
 - [myepitech/rtype](https://github.com/MyEpitech/B-YEP-500-PAR-5-1-rtype-martin.vanaud) - A C++ network game. It consists of driving a ship to eliminate different types of enemies
