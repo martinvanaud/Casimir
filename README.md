@@ -33,5 +33,3 @@
 ### 📫 How to reach me:
 
 - Email: [martin.vanaud@epitech.eu](mailto:martin.vanaud@epitech.eu)
-
-My PGP Public Key: [`8A14 E225 34EC E16F`](https://keybase.io/martinvanaud/pgp_keys.asc)
