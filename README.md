@@ -7,7 +7,6 @@
 - 🌱 I'm a developer in training at **Epitech Technology**
 - :microscope: I'm currently working at **Sony Computer Science Laboratories**
 - :hammer: I use daily: `.cpp`, `.[tj]s`, `.yaml`
-####
 - :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
 
 - 🎵 I'm currently listening to:
