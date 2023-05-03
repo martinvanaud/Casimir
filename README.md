@@ -9,8 +9,7 @@
 - :hammer: I use daily: `.cpp`, `.[tj]s`, `.yaml`
 - :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
 
-- 🎵 I'm currently listening to:
-####
+### 🎵 What i'm currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sqae4csmsa1xz9oepmuq1omal&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 👷 What I'm currently working on (may not be released yet):
