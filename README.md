@@ -15,8 +15,8 @@
 ### 👷 What I'm currently working on (may not be released yet):
 
 - [raccord-io/backend](https://github.com/raccord-io/backend) - A software for simplifying pre-production in cinema
-- [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/) you can visit at [samplematch.cslmusic.team](https://samplematch.cslmusic.team/)
-- [sonycsl/drumgan_webapp](https://github.com/SonyCSLParis/drumgan_webapp) - A web application that generates random samples in a latent space using DrumGan (see project above for more info) you can visit at [drumgan.cslmusic.team](https://drumgan.cslmusic.team/)
+- [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/) you can visit at [samplematch.cslmusic.team](https://samplematch.cslparis.com/)
+- [sonycsl/drumgan_webapp](https://github.com/SonyCSLParis/drumgan_webapp) - A web application that generates random samples in a latent space using DrumGan (see project above for more info) you can visit at [drumgan.cslmusic.team](https://drumgan.cslparis.com/)
 
 ### :hammer: Projects to which I contributed
 
