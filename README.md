@@ -10,17 +10,20 @@
 - :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
 
 ### 🎵 What i'm currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sqae4csmsa1xz9oepmuq1omal&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hxyakzedhgk3o4i75nociirpu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### 👷 What I'm currently working on (may not be released yet):
+### 👷 What I'm currently working on (may be experimental work):
 
-- [raccord-io/backend](https://github.com/raccord-io/backend) - A software for simplifying pre-production in cinema
-- [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/) you can visit at [samplematch.cslmusic.team](https://samplematch.cslparis.com/)
-- [sonycsl/drumgan_webapp](https://github.com/SonyCSLParis/drumgan_webapp) - A web application that generates random samples in a latent space using DrumGan (see project above for more info) you can visit at [drumgan.cslmusic.team](https://drumgan.cslparis.com/)
+- [raccord-io/backend](https://github.com/raccord-io) - A software backend for simplifying pre-production in cinema
+- [raccord-io/pld](https://github.com/raccord-io) - Dashboard for our Jira team project tracking and document generation
+- [raccord-io/scenario](https://github.com/raccord-io) - Build AI models to parse, classify and extract data from a movie scenario
+- [raccord-io/green](https://github.com/raccord-io) - Algorithm to compute carbon emissions from a movie production, data provided by ADEME (Agence de la transition écologique)
 
 ### :hammer: Projects to which I contributed
 
 - [sonycsl/beatbox](https://github.com/sony-csl-maker/BeatBox) - Synthesis of Drum Sounds With Perceptual Timbral Conditioning Using Generative Adversarial Networks
+- [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/) you can visit at [samplematch.cslmusic.team](https://samplematch.cslparis.com/)
+- [sonycsl/drumgan_webapp](https://github.com/SonyCSLParis/drumgan_webapp) - A web application that generates random samples in a latent space using DrumGan (see project above for more info) you can visit at [drumgan.cslmusic.team](https://drumgan.cslparis.com/)
 
 ### :school: My school assignments (done during the last 3 years):
 
