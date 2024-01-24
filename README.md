@@ -5,9 +5,9 @@
 ### 💬 About me:
 
 - 🌱 I'm a developer in training at **Epitech Technology**
-- :microscope: I'm currently working at **Sony Computer Science Laboratories**
-- :hammer: I use daily: `.[tj]s`, `.yaml`
-- :telescope:, i'm currently certifying in cloud technologies with **Amazon Web Services**
+- :microscope: I'm currently working for **Henri8**
+- :hammer: I use daily: `.[tj]s`, `.yaml`, `.py`
+- :telescope:, i'm certified in cloud technologies with **Amazon Web Services**
 
 ### 🎵 What i'm currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hxyakzedhgk3o4i75nociirpu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
