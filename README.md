@@ -26,7 +26,7 @@
 - [sonycsl/sample_match](https://github.com/SonyCSLParis/sample_match) - A application to sort samples with an audio track, using DrumGan (https://cslmusicteam.sony.fr/drumgan-vst/) you can visit at [samplematch.cslmusic.team](https://samplematch.cslparis.com/)
 - [sonycsl/drumgan_webapp](https://github.com/SonyCSLParis/drumgan_webapp) - A web application that generates random samples in a latent space using DrumGan (see project above for more info) you can visit at [drumgan.cslmusic.team](https://drumgan.cslparis.com/)
 
-### :school: My school assignments (done during the last 3 years):
+### :school: My school assignments (done during my bachelor)
 
 - [myepitech/area](https://github.com/MyEpitech/B-DEV-500-PAR-5-2-area-martin.vanaud) - A web application for Action & Reaction, automation platform such as IFTTT
 - [myepitech/indiestudio](https://github.com/MyEpitech/B-YEP-400-PAR-4-1-indiestudio-martin.vanaud) - A C++ cross-platform 3D video game with real-world tools
