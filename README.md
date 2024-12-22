@@ -5,10 +5,8 @@
 ### 💬 About me:
 
 - 🌱 I'm a 4th year developer studying at **Epitech Technology**
-- :microscope: I'm currently working for **Henri8** on a mobile application in health tech
+- :microscope: I'm currently working for **Societe Générale** as a Software Engineer
 - :hammer: I use daily: `.[tj]s`, `.yaml`, `.py`
-- :telescope:, I'm certified in cloud technologies with **Amazon Web Services**
-- 🦾, I'm now studying _Natural Language Processing_ at Chung-Ang University (Seoul, South Korea)
 
 ### 🎵 What i'm currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hxyakzedhgk3o4i75nociirpu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
